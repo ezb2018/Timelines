@@ -1,0 +1,2402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Timeline\n"
+"POT-Creation-Date: 2018-07-27 19:09+0700\n"
+"PO-Revision-Date: 2018-07-27 19:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ex Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-timelines/timeline.php:16
+msgid ""
+"You have already installed WP Timeline Pro version, WP Timeline lite version "
+"will auto deactivate"
+msgstr ""
+
+#: wp-timelines/timeline.php:57
+msgid "WP Timeline"
+msgstr ""
+
+#: wp-timelines/timeline.php:59
+msgid "Sidebar for single timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-elementor.php:25
+msgid "WP Timelines"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:21
+#: wp-timelines/inc/class-timeline-post-type.php:22
+#: wp-timelines/inc/class-timeline-post-type.php:33
+#: wp-timelines/inc/admin/class-plugin-settings.php:37
+#: wp-timelines/inc/elementor/timeline-list.php:10
+#: wp-timelines/inc/elementor/timeline-list.php:25
+msgid "Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:23
+#: wp-timelines/inc/class-timeline-post-type.php:24
+msgid "Add New Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:25
+msgid "Edit Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:26
+msgid "New Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:27
+msgid "All Timelines"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:28
+msgid "View Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:29
+msgid "Search Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:30
+msgid "No Timeline found"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:31
+msgid "No Timeline found in Trash"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:64
+#: wp-timelines/inc/class-timeline-post-type.php:65
+#: wp-timelines/inc/class-timeline-sc-buider.php:144
+#: wp-timelines/inc/class-timeline-sc-buider.php:310
+#: wp-timelines/inc/class-timeline-sc-buider.php:438
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:93
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:102
+#: wp-timelines/inc/elementor/timeline-list.php:110
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:126
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:127
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:121
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:215
+#: wp-timelines/shortcode/timeline-slider.php:119
+#: wp-timelines/shortcode/timeline.php:298
+msgid "Category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:66
+#: wp-timelines/inc/class-timeline-post-type.php:87
+msgid "Search"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:67
+msgid "All category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:68
+msgid "Parent category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:69
+msgid "Parent category:"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:70
+msgid "Edit category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:71
+msgid "Update category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:72
+msgid "Add New category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:73
+msgid "Categories"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:85
+#: wp-timelines/inc/class-timeline-post-type.php:86
+#: wp-timelines/inc/class-timeline-post-type.php:94
+msgid "Year"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:88
+msgid "All Year"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:89
+msgid "Parent Year"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:90
+msgid "Parent Year:"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:91
+msgid "Edit Year"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:92
+msgid "Update Year"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:93
+msgid "Add New Year"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:115
+#: wp-timelines/inc/class-timeline-sc-buider.php:156
+#: wp-timelines/inc/class-timeline-sc-buider.php:322
+#: wp-timelines/inc/class-timeline-sc-buider.php:450
+#: wp-timelines/inc/admin/functions.php:7
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:137
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:146
+#: wp-timelines/inc/elementor/timeline-list.php:154
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:157
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:158
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:152
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:256
+#: wp-timelines/shortcode/timeline-slider.php:160
+#: wp-timelines/shortcode/timeline.php:339
+msgid "Timeline Date"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:115
+msgid "Select date"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:116
+#: wp-timelines/inc/admin/functions.php:8
+msgid "Custom Date"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:116
+msgid "Ex: 19 02 1945 or 19/02/1945 (auto replace to timeline date)"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:117
+msgid "Sub label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:117
+msgid "Enter Sub label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:118
+msgid "Feature label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:118
+msgid "Only used for Timeline Listing shortcode"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:122
+msgid "Custom Order in Timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:122
+msgid ""
+"Enter number (if you use custom date then you can use this feature to order "
+"timeline)"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:123
+#: wp-timelines/inc/admin/functions.php:11
+msgid "Icon"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:123
+msgid ""
+"Enter Font Awesome icon class (Ex: fa-star) (Only used for Timeline Listing "
+"shortcode)"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:124
+msgid "Image Icon"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:124
+msgid "Use image icon instead of Font Awesome"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:125
+#: wp-timelines/inc/admin/functions.php:10
+msgid "Color"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:126
+msgid "Custom metadata"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:127
+msgid "External/ Custom link"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:127
+msgid "Enter custom link to replace single timeline link"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:135
+msgid "Timeline custom date"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-post-type.php:141
+msgid "Timeline info"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:56
+#: wp-timelines/inc/class-timeline-sc-buider.php:57
+#: wp-timelines/inc/class-timeline-sc-buider.php:68
+msgid "Shortcodes"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:58
+#: wp-timelines/inc/class-timeline-sc-buider.php:59
+msgid "Add New Shortcodes"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:60
+msgid "Edit Shortcodes"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:61
+msgid "New Shortcode"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:62
+msgid "Shortcodes builder"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:63
+msgid "View Shortcodes"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:64
+msgid "Search Shortcodes"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:65
+msgid "No Shortcode found"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:66
+msgid "No Shortcode found in Trash"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:93
+msgid "Shortcode"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:95
+msgid "Vertival Listing"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:96
+msgid "Hozizontal"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:97
+msgid "Hozizontal Multi items"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:103
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:119
+#: wp-timelines/inc/elementor/timeline-list.php:35
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:80
+#: wp-timelines/shortcode/timeline.php:237
+msgid "Classic"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:120
+#: wp-timelines/inc/elementor/timeline-list.php:36
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:81
+#: wp-timelines/shortcode/timeline.php:238
+msgid "Modern"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:121
+#: wp-timelines/inc/elementor/timeline-list.php:37
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:82
+#: wp-timelines/shortcode/timeline.php:239
+msgid "Wide image"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:122
+#: wp-timelines/inc/elementor/timeline-list.php:38
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:83
+#: wp-timelines/shortcode/timeline.php:240
+msgid "Background"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:123
+#: wp-timelines/inc/elementor/timeline-list.php:39
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:84
+msgid "Box color"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:124
+#: wp-timelines/inc/elementor/timeline-list.php:40
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:85
+#: wp-timelines/shortcode/timeline.php:242
+msgid "Simple"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:125
+#: wp-timelines/inc/elementor/timeline-list.php:41
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:86
+#: wp-timelines/shortcode/timeline.php:243
+msgid "Simple bod"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:126
+#: wp-timelines/inc/elementor/timeline-list.php:42
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:87
+#: wp-timelines/shortcode/timeline.php:244
+msgid "Simple cent"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:127
+#: wp-timelines/inc/elementor/timeline-list.php:43
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:88
+#: wp-timelines/shortcode/timeline.php:245
+msgid "Clean"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:130
+msgid "alignment"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:132
+#: wp-timelines/inc/class-timeline-sc-buider.php:344
+#: wp-timelines/inc/class-timeline-sc-buider.php:350
+#: wp-timelines/inc/class-timeline-sc-buider.php:357
+#: wp-timelines/inc/class-timeline-sc-buider.php:474
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:190
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:189
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:201
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:214
+#: wp-timelines/inc/elementor/timeline-list.php:54
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:96
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:192
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:201
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:210
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:191
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:296
+#: wp-timelines/shortcode/timeline-slider.php:209
+#: wp-timelines/shortcode/timeline-slider.php:221
+#: wp-timelines/shortcode/timeline-slider.php:233
+#: wp-timelines/shortcode/timeline.php:256
+msgid "Center"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:133
+#: wp-timelines/inc/class-timeline-sc-buider.php:345
+#: wp-timelines/inc/class-timeline-sc-buider.php:351
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:190
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:202
+#: wp-timelines/inc/elementor/timeline-list.php:55
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:97
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:193
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:202
+#: wp-timelines/shortcode/timeline-slider.php:210
+#: wp-timelines/shortcode/timeline-slider.php:222
+#: wp-timelines/shortcode/timeline.php:257
+msgid "Left"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:134
+#: wp-timelines/inc/elementor/timeline-list.php:56
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:98
+#: wp-timelines/shortcode/timeline.php:258
+msgid "Side by side"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:137
+#: wp-timelines/inc/class-timeline-sc-buider.php:303
+#: wp-timelines/inc/class-timeline-sc-buider.php:431
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:57
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:66
+#: wp-timelines/inc/elementor/timeline-list.php:74
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:103
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:104
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:98
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:183
+#: wp-timelines/shortcode/timeline-slider.php:84
+#: wp-timelines/shortcode/timeline.php:266
+msgid "Post types"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:140
+#: wp-timelines/inc/class-timeline-sc-buider.php:306
+#: wp-timelines/inc/class-timeline-sc-buider.php:434
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:66
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:75
+#: wp-timelines/inc/elementor/timeline-list.php:83
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:109
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:110
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:104
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:191
+#: wp-timelines/shortcode/timeline-slider.php:92
+#: wp-timelines/shortcode/timeline.php:274
+msgid "IDs"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:140
+#: wp-timelines/inc/class-timeline-sc-buider.php:306
+#: wp-timelines/inc/class-timeline-sc-buider.php:434
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:69
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:78
+#: wp-timelines/inc/elementor/timeline-list.php:86
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:110
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:111
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:105
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:194
+#: wp-timelines/shortcode/timeline-slider.php:95
+#: wp-timelines/shortcode/timeline.php:277
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:141
+#: wp-timelines/inc/class-timeline-sc-buider.php:307
+#: wp-timelines/inc/class-timeline-sc-buider.php:435
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:75
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:84
+#: wp-timelines/inc/elementor/timeline-list.php:92
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:114
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:115
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:109
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:199
+#: wp-timelines/shortcode/timeline-slider.php:100
+#: wp-timelines/shortcode/timeline.php:282
+msgid "Count"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:141
+#: wp-timelines/inc/class-timeline-sc-buider.php:307
+#: wp-timelines/inc/class-timeline-sc-buider.php:435
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:78
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:87
+#: wp-timelines/inc/elementor/timeline-list.php:95
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:116
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:117
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:111
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:202
+#: wp-timelines/shortcode/timeline-slider.php:103
+#: wp-timelines/shortcode/timeline.php:285
+msgid "Number of posts"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:142
+#: wp-timelines/inc/elementor/timeline-list.php:101
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:120
+#: wp-timelines/shortcode/timeline.php:290
+msgid "Posts per page"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:142
+#: wp-timelines/inc/elementor/timeline-list.php:104
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:122
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:123
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:117
+#: wp-timelines/shortcode/timeline.php:293
+msgid "Number item per page"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:144
+#: wp-timelines/inc/class-timeline-sc-buider.php:310
+#: wp-timelines/inc/class-timeline-sc-buider.php:438
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:96
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:105
+#: wp-timelines/inc/elementor/timeline-list.php:113
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:128
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:129
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:123
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:218
+#: wp-timelines/shortcode/timeline-slider.php:122
+#: wp-timelines/shortcode/timeline.php:301
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:145
+#: wp-timelines/inc/class-timeline-sc-buider.php:311
+#: wp-timelines/inc/class-timeline-sc-buider.php:439
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:102
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:111
+#: wp-timelines/inc/elementor/timeline-list.php:119
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:132
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:133
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:127
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:223
+#: wp-timelines/shortcode/timeline-slider.php:127
+#: wp-timelines/shortcode/timeline.php:306
+msgid "Tags"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:145
+#: wp-timelines/inc/class-timeline-sc-buider.php:311
+#: wp-timelines/inc/class-timeline-sc-buider.php:439
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:105
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:114
+#: wp-timelines/inc/elementor/timeline-list.php:122
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:134
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:135
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:129
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:226
+#: wp-timelines/shortcode/timeline-slider.php:130
+#: wp-timelines/shortcode/timeline.php:309
+msgid "List of tags, separated by a comma"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:146
+#: wp-timelines/inc/class-timeline-sc-buider.php:312
+#: wp-timelines/inc/class-timeline-sc-buider.php:440
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:111
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:120
+#: wp-timelines/inc/elementor/timeline-list.php:128
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:138
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:139
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:133
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:231
+#: wp-timelines/shortcode/timeline-slider.php:135
+#: wp-timelines/shortcode/timeline.php:314
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:146
+#: wp-timelines/inc/class-timeline-sc-buider.php:312
+#: wp-timelines/inc/class-timeline-sc-buider.php:440
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:114
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:123
+#: wp-timelines/inc/elementor/timeline-list.php:131
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:140
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:141
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:135
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:234
+#: wp-timelines/shortcode/timeline-slider.php:138
+#: wp-timelines/shortcode/timeline.php:317
+msgid "Name of custom taxonomy"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:147
+#: wp-timelines/inc/class-timeline-sc-buider.php:313
+#: wp-timelines/inc/class-timeline-sc-buider.php:441
+#: wp-timelines/inc/admin/functions.php:9
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:120
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:129
+#: wp-timelines/inc/elementor/timeline-list.php:137
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:144
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:145
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:139
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:240
+#: wp-timelines/shortcode/timeline-slider.php:144
+#: wp-timelines/shortcode/timeline.php:323
+msgid "Order"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:149
+#: wp-timelines/inc/class-timeline-sc-buider.php:315
+#: wp-timelines/inc/class-timeline-sc-buider.php:443
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:124
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:133
+#: wp-timelines/inc/elementor/timeline-list.php:141
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:147
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:148
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:142
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:243
+#: wp-timelines/shortcode/timeline-slider.php:147
+#: wp-timelines/shortcode/timeline.php:326
+msgid "DESC"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:150
+#: wp-timelines/inc/class-timeline-sc-buider.php:316
+#: wp-timelines/inc/class-timeline-sc-buider.php:444
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:125
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:134
+#: wp-timelines/inc/elementor/timeline-list.php:142
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:148
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:149
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:143
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:244
+#: wp-timelines/shortcode/timeline-slider.php:148
+#: wp-timelines/shortcode/timeline.php:327
+msgid "ASC"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:153
+#: wp-timelines/inc/class-timeline-sc-buider.php:319
+#: wp-timelines/inc/class-timeline-sc-buider.php:447
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:132
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:141
+#: wp-timelines/inc/elementor/timeline-list.php:149
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:153
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:154
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:148
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:252
+#: wp-timelines/shortcode/timeline-slider.php:156
+#: wp-timelines/shortcode/timeline.php:335
+msgid "Order by"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:155
+#: wp-timelines/inc/class-timeline-sc-buider.php:321
+#: wp-timelines/inc/class-timeline-sc-buider.php:449
+msgid "Publish Date"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:157
+#: wp-timelines/inc/class-timeline-sc-buider.php:323
+#: wp-timelines/inc/class-timeline-sc-buider.php:451
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:138
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:147
+#: wp-timelines/inc/elementor/timeline-list.php:155
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:158
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:159
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:153
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:257
+#: wp-timelines/shortcode/timeline-slider.php:161
+#: wp-timelines/shortcode/timeline.php:340
+msgid "ID"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:158
+#: wp-timelines/inc/class-timeline-sc-buider.php:324
+#: wp-timelines/inc/class-timeline-sc-buider.php:452
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:139
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:148
+#: wp-timelines/inc/elementor/timeline-list.php:156
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:159
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:160
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:154
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:258
+#: wp-timelines/shortcode/timeline-slider.php:162
+#: wp-timelines/shortcode/timeline.php:341
+msgid "Author"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:159
+#: wp-timelines/inc/class-timeline-sc-buider.php:325
+#: wp-timelines/inc/class-timeline-sc-buider.php:453
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:140
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:149
+#: wp-timelines/inc/elementor/timeline-list.php:157
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:160
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:161
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:155
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:259
+#: wp-timelines/shortcode/timeline-slider.php:163
+#: wp-timelines/shortcode/timeline.php:342
+msgid "Title"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:160
+#: wp-timelines/inc/class-timeline-sc-buider.php:326
+#: wp-timelines/inc/class-timeline-sc-buider.php:454
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:141
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:150
+#: wp-timelines/inc/elementor/timeline-list.php:158
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:161
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:162
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:156
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:260
+#: wp-timelines/shortcode/timeline-slider.php:164
+#: wp-timelines/shortcode/timeline.php:343
+msgid "Name"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:161
+#: wp-timelines/inc/class-timeline-sc-buider.php:327
+#: wp-timelines/inc/class-timeline-sc-buider.php:455
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:142
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:151
+#: wp-timelines/inc/elementor/timeline-list.php:159
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:162
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:163
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:157
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:261
+#: wp-timelines/shortcode/timeline-slider.php:165
+#: wp-timelines/shortcode/timeline.php:344
+msgid "Modified"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:162
+#: wp-timelines/inc/class-timeline-sc-buider.php:328
+#: wp-timelines/inc/class-timeline-sc-buider.php:456
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:143
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:152
+#: wp-timelines/inc/elementor/timeline-list.php:160
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:163
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:164
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:158
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:262
+#: wp-timelines/shortcode/timeline-slider.php:166
+#: wp-timelines/shortcode/timeline.php:345
+msgid "Parent"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:163
+#: wp-timelines/inc/class-timeline-sc-buider.php:329
+#: wp-timelines/inc/class-timeline-sc-buider.php:457
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:144
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:153
+#: wp-timelines/inc/elementor/timeline-list.php:161
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:164
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:165
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:159
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:263
+#: wp-timelines/shortcode/timeline-slider.php:167
+#: wp-timelines/shortcode/timeline.php:346
+msgid "Random"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:164
+#: wp-timelines/inc/class-timeline-sc-buider.php:330
+#: wp-timelines/inc/class-timeline-sc-buider.php:458
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:145
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:154
+#: wp-timelines/inc/elementor/timeline-list.php:162
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:165
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:166
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:160
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:264
+#: wp-timelines/shortcode/timeline-slider.php:168
+#: wp-timelines/shortcode/timeline.php:347
+msgid "Comment count"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:165
+#: wp-timelines/inc/class-timeline-sc-buider.php:331
+#: wp-timelines/inc/class-timeline-sc-buider.php:459
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:146
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:155
+#: wp-timelines/inc/elementor/timeline-list.php:163
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:166
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:167
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:161
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:265
+#: wp-timelines/shortcode/timeline-slider.php:169
+#: wp-timelines/shortcode/timeline.php:348
+msgid "Menu order"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:166
+#: wp-timelines/inc/class-timeline-sc-buider.php:332
+#: wp-timelines/inc/class-timeline-sc-buider.php:460
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:147
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:156
+#: wp-timelines/inc/elementor/timeline-list.php:164
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:167
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:168
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:162
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:266
+#: wp-timelines/shortcode/timeline-slider.php:170
+#: wp-timelines/shortcode/timeline.php:349
+msgid "Meta value"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:167
+#: wp-timelines/inc/class-timeline-sc-buider.php:333
+#: wp-timelines/inc/class-timeline-sc-buider.php:461
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:148
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:157
+#: wp-timelines/inc/elementor/timeline-list.php:165
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:168
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:169
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:163
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:267
+#: wp-timelines/shortcode/timeline-slider.php:171
+#: wp-timelines/shortcode/timeline.php:350
+msgid "Meta value num"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:168
+#: wp-timelines/inc/class-timeline-sc-buider.php:334
+#: wp-timelines/inc/class-timeline-sc-buider.php:462
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:149
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:158
+#: wp-timelines/inc/elementor/timeline-list.php:166
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:169
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:170
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:164
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:268
+#: wp-timelines/shortcode/timeline-slider.php:172
+#: wp-timelines/shortcode/timeline.php:351
+msgid "Post__in"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:169
+#: wp-timelines/inc/class-timeline-sc-buider.php:222
+#: wp-timelines/inc/class-timeline-sc-buider.php:335
+#: wp-timelines/inc/class-timeline-sc-buider.php:463
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:1115
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:150
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:159
+#: wp-timelines/inc/elementor/timeline-list.php:167
+#: wp-timelines/inc/elementor/timeline-list.php:299
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:170
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:265
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:171
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:165
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:269
+#: wp-timelines/shortcode/timeline-slider.php:173
+#: wp-timelines/shortcode/timeline.php:352
+#: wp-timelines/shortcode/timeline.php:479
+msgid "None"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:172
+#: wp-timelines/inc/class-timeline-sc-buider.php:338
+#: wp-timelines/inc/class-timeline-sc-buider.php:466
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:157
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:166
+#: wp-timelines/inc/elementor/timeline-list.php:174
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:175
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:176
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:170
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:276
+#: wp-timelines/shortcode/timeline-slider.php:180
+#: wp-timelines/shortcode/timeline.php:359
+msgid "Meta key"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:172
+#: wp-timelines/inc/class-timeline-sc-buider.php:338
+#: wp-timelines/inc/class-timeline-sc-buider.php:466
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:160
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:169
+#: wp-timelines/inc/elementor/timeline-list.php:177
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:177
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:178
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:172
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:279
+#: wp-timelines/shortcode/timeline-slider.php:183
+#: wp-timelines/shortcode/timeline.php:362
+msgid "Enter meta key to query"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:173
+#: wp-timelines/inc/elementor/timeline-list.php:183
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:181
+#: wp-timelines/shortcode/timeline.php:375
+msgid "Start label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:173
+#: wp-timelines/inc/class-timeline-sc-buider.php:174
+#: wp-timelines/inc/elementor/timeline-list.php:186
+#: wp-timelines/inc/elementor/timeline-list.php:195
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:183
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:189
+msgid "Enter text"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:174
+#: wp-timelines/inc/elementor/timeline-list.php:192
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:187
+#: wp-timelines/shortcode/timeline.php:383
+msgid "End label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:176
+#: wp-timelines/inc/class-timeline-sc-buider.php:367
+#: wp-timelines/inc/class-timeline-sc-buider.php:478
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:199
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:235
+#: wp-timelines/inc/elementor/timeline-list.php:202
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:193
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:225
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:197
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:330
+#: wp-timelines/shortcode/timeline-slider.php:281
+#: wp-timelines/shortcode/timeline.php:392
+msgid "Show media"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:176
+msgid "Show Audio or video on timeline"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:178
+#: wp-timelines/inc/class-timeline-sc-buider.php:185
+#: wp-timelines/inc/class-timeline-sc-buider.php:192
+#: wp-timelines/inc/class-timeline-sc-buider.php:198
+#: wp-timelines/inc/class-timeline-sc-buider.php:204
+#: wp-timelines/inc/class-timeline-sc-buider.php:210
+#: wp-timelines/inc/class-timeline-sc-buider.php:216
+#: wp-timelines/inc/class-timeline-sc-buider.php:272
+#: wp-timelines/inc/class-timeline-sc-buider.php:285
+#: wp-timelines/inc/class-timeline-sc-buider.php:369
+#: wp-timelines/inc/class-timeline-sc-buider.php:376
+#: wp-timelines/inc/class-timeline-sc-buider.php:382
+#: wp-timelines/inc/class-timeline-sc-buider.php:389
+#: wp-timelines/inc/class-timeline-sc-buider.php:395
+#: wp-timelines/inc/class-timeline-sc-buider.php:401
+#: wp-timelines/inc/class-timeline-sc-buider.php:409
+#: wp-timelines/inc/class-timeline-sc-buider.php:416
+#: wp-timelines/inc/class-timeline-sc-buider.php:480
+#: wp-timelines/inc/class-timeline-sc-buider.php:487
+#: wp-timelines/inc/class-timeline-sc-buider.php:493
+#: wp-timelines/inc/class-timeline-sc-buider.php:500
+#: wp-timelines/inc/class-timeline-sc-buider.php:506
+#: wp-timelines/inc/class-timeline-sc-buider.php:514
+#: wp-timelines/inc/class-timeline-sc-buider.php:521
+#: wp-timelines/inc/admin/class-plugin-settings.php:170
+#: wp-timelines/inc/admin/class-plugin-settings.php:181
+#: wp-timelines/inc/admin/class-plugin-settings.php:191
+#: wp-timelines/inc/admin/class-plugin-settings.php:214
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:203
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:216
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:229
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:242
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:255
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:276
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:288
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:239
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:252
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:265
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:278
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:291
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:304
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:325
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:337
+#: wp-timelines/inc/elementor/timeline-list.php:206
+#: wp-timelines/inc/elementor/timeline-list.php:219
+#: wp-timelines/inc/elementor/timeline-list.php:232
+#: wp-timelines/inc/elementor/timeline-list.php:245
+#: wp-timelines/inc/elementor/timeline-list.php:258
+#: wp-timelines/inc/elementor/timeline-list.php:272
+#: wp-timelines/inc/elementor/timeline-list.php:286
+#: wp-timelines/inc/elementor/timeline-list.php:368
+#: wp-timelines/inc/elementor/timeline-list.php:395
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:196
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:206
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:216
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:226
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:236
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:246
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:256
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:327
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:348
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:228
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:238
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:248
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:259
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:269
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:279
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:294
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:303
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:200
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:210
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:220
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:230
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:240
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:255
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:264
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:309
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:333
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:346
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:358
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:370
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:406
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:418
+#: wp-timelines/shortcode/timeline-slider.php:260
+#: wp-timelines/shortcode/timeline-slider.php:284
+#: wp-timelines/shortcode/timeline-slider.php:297
+#: wp-timelines/shortcode/timeline-slider.php:309
+#: wp-timelines/shortcode/timeline-slider.php:322
+#: wp-timelines/shortcode/timeline-slider.php:335
+#: wp-timelines/shortcode/timeline-slider.php:355
+#: wp-timelines/shortcode/timeline-slider.php:367
+#: wp-timelines/shortcode/timeline.php:395
+#: wp-timelines/shortcode/timeline.php:408
+#: wp-timelines/shortcode/timeline.php:420
+#: wp-timelines/shortcode/timeline.php:432
+#: wp-timelines/shortcode/timeline.php:444
+#: wp-timelines/shortcode/timeline.php:456
+#: wp-timelines/shortcode/timeline.php:468
+#: wp-timelines/shortcode/timeline.php:543
+#: wp-timelines/shortcode/timeline.php:571
+#: wp-timelines/shortcode/timeline.php:596
+msgid "Yes"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:179
+#: wp-timelines/inc/class-timeline-sc-buider.php:184
+#: wp-timelines/inc/class-timeline-sc-buider.php:191
+#: wp-timelines/inc/class-timeline-sc-buider.php:197
+#: wp-timelines/inc/class-timeline-sc-buider.php:203
+#: wp-timelines/inc/class-timeline-sc-buider.php:209
+#: wp-timelines/inc/class-timeline-sc-buider.php:215
+#: wp-timelines/inc/class-timeline-sc-buider.php:271
+#: wp-timelines/inc/class-timeline-sc-buider.php:284
+#: wp-timelines/inc/class-timeline-sc-buider.php:370
+#: wp-timelines/inc/class-timeline-sc-buider.php:375
+#: wp-timelines/inc/class-timeline-sc-buider.php:381
+#: wp-timelines/inc/class-timeline-sc-buider.php:388
+#: wp-timelines/inc/class-timeline-sc-buider.php:394
+#: wp-timelines/inc/class-timeline-sc-buider.php:400
+#: wp-timelines/inc/class-timeline-sc-buider.php:408
+#: wp-timelines/inc/class-timeline-sc-buider.php:415
+#: wp-timelines/inc/class-timeline-sc-buider.php:481
+#: wp-timelines/inc/class-timeline-sc-buider.php:486
+#: wp-timelines/inc/class-timeline-sc-buider.php:492
+#: wp-timelines/inc/class-timeline-sc-buider.php:499
+#: wp-timelines/inc/class-timeline-sc-buider.php:505
+#: wp-timelines/inc/class-timeline-sc-buider.php:513
+#: wp-timelines/inc/class-timeline-sc-buider.php:520
+#: wp-timelines/inc/admin/class-plugin-settings.php:169
+#: wp-timelines/inc/admin/class-plugin-settings.php:180
+#: wp-timelines/inc/admin/class-plugin-settings.php:192
+#: wp-timelines/inc/admin/class-plugin-settings.php:213
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:204
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:215
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:228
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:241
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:254
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:275
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:287
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:240
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:251
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:264
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:277
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:290
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:303
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:324
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:336
+#: wp-timelines/inc/elementor/timeline-list.php:207
+#: wp-timelines/inc/elementor/timeline-list.php:218
+#: wp-timelines/inc/elementor/timeline-list.php:231
+#: wp-timelines/inc/elementor/timeline-list.php:244
+#: wp-timelines/inc/elementor/timeline-list.php:257
+#: wp-timelines/inc/elementor/timeline-list.php:271
+#: wp-timelines/inc/elementor/timeline-list.php:285
+#: wp-timelines/inc/elementor/timeline-list.php:367
+#: wp-timelines/inc/elementor/timeline-list.php:394
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:197
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:205
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:215
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:225
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:235
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:245
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:255
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:326
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:347
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:229
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:237
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:247
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:258
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:268
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:278
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:293
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:302
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:201
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:209
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:219
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:229
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:239
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:254
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:263
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:308
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:334
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:345
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:357
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:369
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:405
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:417
+#: wp-timelines/shortcode/timeline-slider.php:259
+#: wp-timelines/shortcode/timeline-slider.php:285
+#: wp-timelines/shortcode/timeline-slider.php:296
+#: wp-timelines/shortcode/timeline-slider.php:308
+#: wp-timelines/shortcode/timeline-slider.php:321
+#: wp-timelines/shortcode/timeline-slider.php:334
+#: wp-timelines/shortcode/timeline-slider.php:354
+#: wp-timelines/shortcode/timeline-slider.php:366
+#: wp-timelines/shortcode/timeline.php:396
+#: wp-timelines/shortcode/timeline.php:407
+#: wp-timelines/shortcode/timeline.php:419
+#: wp-timelines/shortcode/timeline.php:431
+#: wp-timelines/shortcode/timeline.php:443
+#: wp-timelines/shortcode/timeline.php:455
+#: wp-timelines/shortcode/timeline.php:467
+#: wp-timelines/shortcode/timeline.php:542
+#: wp-timelines/shortcode/timeline.php:570
+#: wp-timelines/shortcode/timeline.php:595
+msgid "No"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:182
+#: wp-timelines/inc/elementor/timeline-list.php:214
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:202
+#: wp-timelines/shortcode/timeline.php:404
+msgid "Show history bar"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:182
+#: wp-timelines/inc/class-timeline-sc-buider.php:348
+#: wp-timelines/inc/class-timeline-sc-buider.php:373
+#: wp-timelines/inc/class-timeline-sc-buider.php:484
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:218
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:254
+#: wp-timelines/inc/elementor/timeline-list.php:221
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:208
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:240
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:212
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:348
+#: wp-timelines/shortcode/timeline-slider.php:299
+msgid "Show label instead of date on timeline bar"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:189
+#: wp-timelines/inc/class-timeline-sc-buider.php:379
+#: wp-timelines/inc/class-timeline-sc-buider.php:490
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:224
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:260
+#: wp-timelines/inc/elementor/timeline-list.php:227
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:212
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:244
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:216
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:354
+#: wp-timelines/shortcode/timeline-slider.php:305
+#: wp-timelines/shortcode/timeline.php:416
+msgid "Show full Content"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:189
+#: wp-timelines/inc/class-timeline-sc-buider.php:379
+#: wp-timelines/inc/class-timeline-sc-buider.php:490
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:231
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:267
+#: wp-timelines/inc/elementor/timeline-list.php:234
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:218
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:250
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:222
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:360
+#: wp-timelines/shortcode/timeline-slider.php:311
+#: wp-timelines/shortcode/timeline.php:422
+msgid "Show full Content instead of Excerpt"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:195
+#: wp-timelines/inc/elementor/timeline-list.php:240
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:222
+#: wp-timelines/shortcode/timeline.php:428
+msgid "Show Filter by category"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:201
+#: wp-timelines/inc/elementor/timeline-list.php:253
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:232
+#: wp-timelines/shortcode/timeline.php:440
+msgid "Show Feature label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:207
+msgid "Hide timeline Title"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:213
+#: wp-timelines/inc/class-timeline-sc-buider.php:392
+#: wp-timelines/inc/class-timeline-sc-buider.php:497
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:237
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:286
+#: wp-timelines/inc/elementor/timeline-list.php:281
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:252
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:265
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:226
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:366
+#: wp-timelines/shortcode/timeline-slider.php:331
+msgid "Hide thubnails"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:220
+#: wp-timelines/inc/elementor/timeline-list.php:295
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:262
+#: wp-timelines/shortcode/timeline.php:476
+msgid "Animations"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:223
+#: wp-timelines/inc/elementor/timeline-list.php:300
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:266
+#: wp-timelines/shortcode/timeline.php:480
+msgid "bounce"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:224
+#: wp-timelines/inc/elementor/timeline-list.php:301
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:267
+#: wp-timelines/shortcode/timeline.php:481
+msgid "flash"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:225
+#: wp-timelines/inc/elementor/timeline-list.php:302
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:268
+#: wp-timelines/shortcode/timeline.php:482
+msgid "pulse"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:226
+#: wp-timelines/inc/elementor/timeline-list.php:303
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:269
+#: wp-timelines/shortcode/timeline.php:483
+msgid "rubberBand"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:227
+#: wp-timelines/inc/elementor/timeline-list.php:304
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:270
+#: wp-timelines/shortcode/timeline.php:484
+msgid "shake"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:228
+#: wp-timelines/inc/elementor/timeline-list.php:305
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:271
+#: wp-timelines/shortcode/timeline.php:485
+msgid "headShake"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:229
+#: wp-timelines/inc/elementor/timeline-list.php:306
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:272
+#: wp-timelines/shortcode/timeline.php:486
+msgid "swing"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:230
+#: wp-timelines/inc/elementor/timeline-list.php:307
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:273
+#: wp-timelines/shortcode/timeline.php:487
+msgid "tada"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:231
+#: wp-timelines/inc/elementor/timeline-list.php:308
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:274
+#: wp-timelines/shortcode/timeline.php:488
+msgid "wobble"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:232
+#: wp-timelines/inc/elementor/timeline-list.php:309
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:275
+#: wp-timelines/shortcode/timeline.php:489
+msgid "jello"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:233
+#: wp-timelines/inc/elementor/timeline-list.php:310
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:276
+#: wp-timelines/shortcode/timeline.php:490
+msgid "bounceIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:234
+#: wp-timelines/inc/elementor/timeline-list.php:311
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:277
+#: wp-timelines/shortcode/timeline.php:492
+msgid "bounceInLeft"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:235
+#: wp-timelines/inc/class-timeline-sc-buider.php:254
+#: wp-timelines/inc/class-timeline-sc-buider.php:265
+#: wp-timelines/inc/elementor/timeline-list.php:312
+#: wp-timelines/inc/elementor/timeline-list.php:331
+#: wp-timelines/inc/elementor/timeline-list.php:342
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:278
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:297
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:308
+#: wp-timelines/shortcode/timeline.php:493
+#: wp-timelines/shortcode/timeline.php:512
+#: wp-timelines/shortcode/timeline.php:523
+msgid "bounceInRight"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:236
+#: wp-timelines/inc/elementor/timeline-list.php:313
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:279
+#: wp-timelines/shortcode/timeline.php:494
+msgid "bounceInUp"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:237
+#: wp-timelines/inc/elementor/timeline-list.php:314
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:280
+#: wp-timelines/shortcode/timeline.php:495
+msgid "fadeIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:238
+#: wp-timelines/inc/elementor/timeline-list.php:315
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:281
+#: wp-timelines/shortcode/timeline.php:496
+msgid "fadeInDown"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:239
+#: wp-timelines/inc/elementor/timeline-list.php:316
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:282
+#: wp-timelines/shortcode/timeline.php:497
+msgid "fadeInDownBig"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:240
+#: wp-timelines/inc/elementor/timeline-list.php:317
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:283
+#: wp-timelines/shortcode/timeline.php:498
+msgid "fadeInLeft"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:241
+#: wp-timelines/inc/elementor/timeline-list.php:318
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:284
+#: wp-timelines/shortcode/timeline.php:499
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:242
+#: wp-timelines/inc/elementor/timeline-list.php:319
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:285
+#: wp-timelines/shortcode/timeline.php:500
+msgid "fadeInRight"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:243
+#: wp-timelines/inc/elementor/timeline-list.php:320
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:286
+#: wp-timelines/shortcode/timeline.php:501
+msgid "fadeInRightBig"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:244
+#: wp-timelines/inc/elementor/timeline-list.php:321
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:287
+#: wp-timelines/shortcode/timeline.php:502
+msgid "fadeInUp"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:245
+#: wp-timelines/inc/elementor/timeline-list.php:322
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:288
+#: wp-timelines/shortcode/timeline.php:503
+msgid "fadeInUpBig"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:246
+#: wp-timelines/inc/elementor/timeline-list.php:323
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:289
+#: wp-timelines/shortcode/timeline.php:504
+msgid "flipInX"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:247
+#: wp-timelines/inc/elementor/timeline-list.php:324
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:290
+#: wp-timelines/shortcode/timeline.php:505
+msgid "flipInY"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:248
+#: wp-timelines/inc/elementor/timeline-list.php:325
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:291
+#: wp-timelines/shortcode/timeline.php:506
+msgid "lightSpeedIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:249
+#: wp-timelines/inc/elementor/timeline-list.php:326
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:292
+#: wp-timelines/shortcode/timeline.php:507
+msgid "rotateIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:250
+#: wp-timelines/inc/elementor/timeline-list.php:327
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:293
+#: wp-timelines/shortcode/timeline.php:508
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:251
+#: wp-timelines/inc/elementor/timeline-list.php:328
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:294
+#: wp-timelines/shortcode/timeline.php:509
+msgid "rotateInDownRight"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:252
+#: wp-timelines/inc/elementor/timeline-list.php:329
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:295
+#: wp-timelines/shortcode/timeline.php:510
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:253
+#: wp-timelines/inc/elementor/timeline-list.php:330
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:296
+#: wp-timelines/shortcode/timeline.php:511
+msgid "rotateInUpRight"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:255
+#: wp-timelines/inc/elementor/timeline-list.php:332
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:298
+#: wp-timelines/shortcode/timeline.php:513
+msgid "rollIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:256
+#: wp-timelines/inc/elementor/timeline-list.php:333
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:299
+#: wp-timelines/shortcode/timeline.php:514
+msgid "zoomIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:257
+#: wp-timelines/inc/elementor/timeline-list.php:334
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:300
+#: wp-timelines/shortcode/timeline.php:515
+msgid "zoomInDown"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:258
+#: wp-timelines/inc/elementor/timeline-list.php:335
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:301
+#: wp-timelines/shortcode/timeline.php:516
+msgid "zoomInLeft"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:259
+#: wp-timelines/inc/elementor/timeline-list.php:336
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:302
+#: wp-timelines/shortcode/timeline.php:517
+msgid "zoomInRight"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:260
+#: wp-timelines/inc/elementor/timeline-list.php:337
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:303
+#: wp-timelines/shortcode/timeline.php:518
+msgid "zoomInUp"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:261
+#: wp-timelines/inc/elementor/timeline-list.php:338
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:304
+#: wp-timelines/shortcode/timeline.php:519
+msgid "slideIn"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:262
+#: wp-timelines/inc/elementor/timeline-list.php:339
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:305
+#: wp-timelines/shortcode/timeline.php:520
+msgid "slideInDown"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:263
+#: wp-timelines/inc/elementor/timeline-list.php:340
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:306
+#: wp-timelines/shortcode/timeline.php:521
+msgid "slideInLeft"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:264
+#: wp-timelines/inc/elementor/timeline-list.php:341
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:307
+#: wp-timelines/shortcode/timeline.php:522
+msgid "slideInRight"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:268
+#: wp-timelines/inc/elementor/timeline-list.php:350
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:313
+#: wp-timelines/shortcode/timeline.php:555
+msgid "Image size"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:268
+msgid "Enter custom image size"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:269
+#: wp-timelines/inc/elementor/timeline-list.php:363
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:323
+#: wp-timelines/shortcode/timeline.php:567
+msgid "Enable image lightbox"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:275
+#: wp-timelines/inc/elementor/timeline-list.php:376
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:333
+#: wp-timelines/shortcode/timeline.php:579
+msgid "Page navigation"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:277
+#: wp-timelines/inc/admin/class-plugin-settings.php:284
+#: wp-timelines/inc/elementor/timeline-list.php:380
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:336
+#: wp-timelines/shortcode/timeline.php:184
+#: wp-timelines/shortcode/timeline.php:582
+msgid "Load more"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:278
+#: wp-timelines/inc/elementor/timeline-list.php:381
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:337
+#: wp-timelines/shortcode/timeline.php:583
+msgid "Infinite Scroll"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:279
+#: wp-timelines/inc/elementor/timeline-list.php:382
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:338
+#: wp-timelines/shortcode/timeline.php:584
+msgid "Page links"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:282
+#: wp-timelines/inc/class-timeline-sc-buider.php:413
+#: wp-timelines/inc/class-timeline-sc-buider.php:518
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:283
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:332
+#: wp-timelines/inc/elementor/timeline-list.php:390
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:344
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:299
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:260
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:414
+#: wp-timelines/shortcode/timeline-slider.php:363
+#: wp-timelines/shortcode/timeline.php:592
+msgid "Enable Back to timeline page"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:282
+#: wp-timelines/inc/class-timeline-sc-buider.php:413
+#: wp-timelines/inc/class-timeline-sc-buider.php:518
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:290
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:339
+#: wp-timelines/inc/elementor/timeline-list.php:397
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:350
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:305
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:266
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:420
+#: wp-timelines/shortcode/timeline-slider.php:369
+#: wp-timelines/shortcode/timeline.php:598
+msgid "Only work with timeline post type"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:293
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:35
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:89
+#: wp-timelines/shortcode/timeline-slider.php:63
+msgid "Left side"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:294
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:36
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:90
+#: wp-timelines/shortcode/timeline-slider.php:64
+msgid "Full Width"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:297
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:43
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:95
+#: wp-timelines/shortcode/timeline-slider.php:72
+msgid "Layout"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:299
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:47
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:98
+#: wp-timelines/shortcode/timeline-slider.php:75
+msgid "Horizontal"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:300
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:48
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:99
+msgid "Horizontal Step"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:308
+#: wp-timelines/inc/class-timeline-sc-buider.php:436
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:84
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:93
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:121
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:115
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:207
+#: wp-timelines/shortcode/timeline-slider.php:110
+msgid "Number item visible"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:308
+#: wp-timelines/inc/class-timeline-sc-buider.php:436
+msgid "Number item visible on timeline bar"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:339
+#: wp-timelines/inc/class-timeline-sc-buider.php:467
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:166
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:175
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:182
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:176
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:377
+#: wp-timelines/shortcode/timeline-slider.php:196
+msgid "Slide to start on"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:339
+#: wp-timelines/inc/class-timeline-sc-buider.php:467
+#: wp-timelines/inc/class-timeline-sc-buider.php:469
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:169
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:178
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:184
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:178
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:380
+#: wp-timelines/shortcode/timeline-slider.php:199
+msgid "Enter number, Default:0"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:341
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:184
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:188
+#: wp-timelines/shortcode/timeline-slider.php:205
+msgid "Header alignment"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:343
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:188
+#: wp-timelines/inc/elementor/timeline-list.php:354
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:316
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:191
+#: wp-timelines/shortcode/timeline-slider.php:208
+#: wp-timelines/shortcode/timeline.php:558
+msgid "Default"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:348
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:197
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:198
+#: wp-timelines/shortcode/timeline-slider.php:218
+msgid "Content alignment"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:355
+#: wp-timelines/inc/class-timeline-sc-buider.php:472
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:186
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:210
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:207
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:188
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:293
+#: wp-timelines/shortcode/timeline-slider.php:230
+msgid "Arrow buttons position"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:355
+#: wp-timelines/inc/class-timeline-sc-buider.php:472
+msgid "Select position of arrow"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:358
+#: wp-timelines/inc/class-timeline-sc-buider.php:475
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:191
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:215
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:211
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:192
+#: wp-timelines/shortcode/timeline-slider.php:234
+msgid "In timeline bar"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:361
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:222
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:216
+#: wp-timelines/shortcode/timeline-slider.php:242
+msgid "Timeline bar position"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:361
+msgid "Select position of timeline bar"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:363
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:226
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:219
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:297
+#: wp-timelines/shortcode/timeline-slider.php:245
+msgid "Top"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:364
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:227
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:220
+#: wp-timelines/shortcode/timeline-slider.php:246
+msgid "Bottom"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:373
+#: wp-timelines/inc/class-timeline-sc-buider.php:484
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:211
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:247
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:234
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:206
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:342
+#: wp-timelines/shortcode/timeline-slider.php:293
+msgid "Show label"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:386
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:273
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:255
+#: wp-timelines/shortcode/timeline-slider.php:318
+msgid "Show all items"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:386
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:280
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:261
+#: wp-timelines/shortcode/timeline-slider.php:324
+msgid "Show all items on timeline bar"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:398
+#: wp-timelines/inc/class-timeline-sc-buider.php:503
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:250
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:299
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:275
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:236
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:305
+#: wp-timelines/shortcode/timeline-slider.php:256
+msgid "Autoplay"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:404
+#: wp-timelines/inc/class-timeline-sc-buider.php:509
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:262
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:311
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:284
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:245
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:317
+#: wp-timelines/shortcode/timeline-slider.php:268
+msgid "Autoplay Speed"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:404
+#: wp-timelines/inc/class-timeline-sc-buider.php:509
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:265
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:314
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:286
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:247
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:324
+#: wp-timelines/shortcode/timeline-slider.php:275
+msgid "Autoplay Speed in milliseconds. Default:3000"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:406
+#: wp-timelines/inc/class-timeline-sc-buider.php:511
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:271
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:320
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:290
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:251
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:402
+#: wp-timelines/shortcode/timeline-slider.php:351
+msgid "Enable Loading effect"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:424
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:35
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:89
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:171
+msgid "Style 1"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:425
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:36
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:90
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:172
+msgid "Style 2"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:426
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:37
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:91
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:173
+msgid "Style 3"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:427
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:38
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:92
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:174
+msgid "Style 4"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:428
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:39
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:93
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:175
+msgid "Style 5"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:469
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:176
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:182
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:385
+msgid "Number of Excerpt"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:529
+#: wp-timelines/inc/admin/class-plugin-settings.php:82
+msgid "General"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:535
+msgid "Timeline Listing"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:541
+msgid "Timeline Hozizontal"
+msgstr ""
+
+#: wp-timelines/inc/class-timeline-sc-buider.php:547
+msgid "Timeline Hozizontal Multi"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:136
+msgid "ALL"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:188
+msgid "Share on Facebook"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:195
+#: wp-timelines/inc/functions-tag.php:196
+msgid "Share on Twitter"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:203
+#: wp-timelines/inc/functions-tag.php:204
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:211
+#: wp-timelines/inc/functions-tag.php:212
+msgid "Share on Tumblr"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:219
+#: wp-timelines/inc/functions-tag.php:220
+msgid "Share on Google Plus"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:227
+#: wp-timelines/inc/functions-tag.php:228
+msgid "Pin this"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:235
+#: wp-timelines/inc/functions-tag.php:236
+msgid "Share on VK"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:243
+#: wp-timelines/inc/functions-tag.php:244
+msgid "Email this"
+msgstr ""
+
+#: wp-timelines/inc/functions-tag.php:281
+#: wp-timelines/inc/functions-tag.php:310
+msgid "View all posts in "
+msgstr ""
+
+#: wp-timelines/inc/functions.php:338
+msgid "Nothing Found"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:37
+#: wp-timelines/inc/admin/class-plugin-settings.php:61
+#: wp-timelines/inc/admin/class-plugin-settings.php:463
+msgid "Timeline Settings"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:87
+msgid "Main color"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:88
+msgid "Choose main color of Timeline"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:95
+msgid "Main Font Family"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:96
+#: wp-timelines/inc/admin/class-plugin-settings.php:112
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Source Sans "
+"Pro\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:103
+msgid "Main Font Size"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:104
+msgid "Enter size of font, Ex: 13px"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:111
+msgid "Heading Font Family"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:119
+msgid "Heading Font Size"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:120
+msgid "Enter size of font, Ex: 20px"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:127
+msgid "Meta Font Family"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:128
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Ubuntu\" "
+"Google Font, enter Ubuntu"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:135
+msgid "Meta Font Size"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:136
+msgid "Enter size of font, Ex: 12px"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:143
+msgid "Timeline slug"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:144
+msgid "Remember to save the permalink settings again in Settings > Permalinks"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:151
+msgid "Turn off Font Awesome"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:152
+msgid ""
+"Turn off loading plugin's Font Awesome. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:158
+msgid "Turn off Google Font"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:159
+msgid "Turn off loading plugin's Google Font."
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:165
+msgid "Disable link & Single timeline page"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:176
+msgid "Disable social share"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:187
+msgid "Show next & previous link in Single timeline page"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:198
+msgid "Next & previous link order by"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:202
+#: wp-timelines/inc/admin/functions.php:12
+msgid "Publish date"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:203
+msgid "Custom order field"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:209
+msgid "RTL Mode"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:210
+msgid "Support Right-to-Left language"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:220
+msgid "Enable timeline metadata for custom post types"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:221
+msgid ""
+"This feature only effect to timeline shortcode, it will not change anything "
+"in single post"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:228
+msgid "Loading css file on"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:229
+msgid ""
+"Select \"Page with content contain timeline\" if you dont use timeline "
+"shortcode in sidebar"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:232
+msgid "Site-wide"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:233
+msgid "Page with content contain timeline"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:234
+msgid "Only in timeline shortcode"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:249
+msgid "Custom css"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:254
+msgid "Paste your CSS code"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:255
+msgid "Add custom CSS code to the plugin without modifying files"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:262
+msgid "Paste your js code"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:263
+msgid "Add custom js code to the plugin without modifying files"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:271
+msgid "Front end Static Text"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:276
+#: wp-timelines/templates/content-multi.php:83
+#: wp-timelines/templates/content-sbs-classic.php:78
+#: wp-timelines/templates/content-slider.php:94
+#: wp-timelines/templates/content-timeline-bg.php:69
+#: wp-timelines/templates/content-timeline-box-color.php:74
+#: wp-timelines/templates/content-timeline-center.php:95
+#: wp-timelines/templates/content-timeline-clean.php:73
+#: wp-timelines/templates/content-timeline-simple-bod.php:75
+#: wp-timelines/templates/content-timeline-simple-cent.php:75
+#: wp-timelines/templates/content-timeline-simple.php:74
+#: wp-timelines/templates/content-timeline-wide_img.php:75
+#: wp-timelines/templates/content-timeline.php:87
+#: wp-timelines/templates/content-timeline.php:97
+msgid "Continue reading"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:277
+#: wp-timelines/inc/admin/class-plugin-settings.php:285
+#: wp-timelines/inc/admin/class-plugin-settings.php:293
+#: wp-timelines/inc/admin/class-plugin-settings.php:301
+msgid "Add your text to replace this static text"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:292
+#: wp-timelines/templates/single-timeline.php:76
+msgid "Next article"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:300
+#: wp-timelines/templates/single-timeline.php:75
+msgid "Previous article"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:421
+msgid "Upload an image"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:421
+msgid "Use image"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:421
+msgid "Upload new image"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:422
+msgid "Remove image"
+msgstr ""
+
+#: wp-timelines/inc/admin/class-plugin-settings.php:479
+msgid "Save Settings"
+msgstr ""
+
+#: wp-timelines/inc/admin/functions.php:106
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:419
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:503
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:577
+msgid "Remove"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/class.exc_mb-meta-box.php:84
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:68
+msgid "Add New"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:69
+msgid "Remove Field"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:485
+msgid "Add File"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:565
+msgid "Add Image"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:1145
+msgid "Type to search"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:1474
+msgid "Add New Group"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:1475
+msgid "Remove Group"
+msgstr ""
+
+#: wp-timelines/inc/admin/Meta-Boxes/classes.fields.php:1674
+msgid "Drag to set the exact location"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:10
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:25
+msgid "Timeline hozizontal Multi items"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:31
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:31
+#: wp-timelines/inc/elementor/timeline-list.php:31
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:77
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:86
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:86
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:168
+#: wp-timelines/shortcode/timeline-slider.php:60
+#: wp-timelines/shortcode/timeline.php:234
+msgid "Style"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:136
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:145
+#: wp-timelines/inc/elementor/timeline-list.php:153
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:156
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:157
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:151
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:255
+#: wp-timelines/shortcode/timeline-slider.php:159
+#: wp-timelines/shortcode/timeline.php:338
+msgid "Date"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-hozizontal-multi.php:179
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:184
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:388
+#: wp-timelines/shortcode/timeline-slider.php:113
+msgid "Enter number"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:10
+#: wp-timelines/inc/elementor/timeline-hozizontal.php:25
+msgid "Timeline hozizontal"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-list.php:50
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:93
+#: wp-timelines/shortcode/timeline.php:253
+msgid "Alignment"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-list.php:267
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:242
+#: wp-timelines/shortcode/timeline.php:452
+msgid "Hide Title"
+msgstr ""
+
+#: wp-timelines/inc/elementor/timeline-list.php:355
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:317
+#: wp-timelines/shortcode/timeline.php:559
+msgid "Full"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:481
+msgid "Preview"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:486
+msgid "Help"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:552
+msgid ""
+"This widget has scripts and styles that need to be loaded before you can use "
+"it. Please save and reload your current page."
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:553
+msgid "You will only need to do this once."
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:580
+msgid "Are you sure?"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:582
+msgid "There is a newer version of this widget's content available."
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:583
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:587
+msgid "Restore"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:584
+msgid "Dismiss"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:586
+#, php-format
+msgid ""
+"Clicking %s will replace the current widget contents. You can revert by "
+"refreshing the page before updating."
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/siteorigin-widget.class.php:637
+msgid "Widget Preview"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:15
+msgid "Timelines"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/widgets/timelines/timelines.php:17
+msgid "A timeline widget."
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:14
+msgid "Timelines Hozizontal"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal/timelines-hozizonal.php:16
+msgid "A timeline Hozizontal widget."
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:14
+msgid "Timelines Hozizontal Multi item"
+msgstr ""
+
+#: wp-timelines/inc/siteorigin/widgets/timelines-hozizontal-multi/timelines-hozizonal-multi.php:16
+msgid "A timeline Hozizontal Multi item widget."
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:157
+msgid "WP Hoz Timeline Multi items"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:162
+#: wp-timelines/shortcode/timeline-slider.php:54
+#: wp-timelines/shortcode/timeline.php:228
+msgid "content"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:284
+#: wp-timelines/shortcode/timeline-slider.php:188
+#: wp-timelines/shortcode/timeline.php:367
+msgid "Meta Value"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:287
+#: wp-timelines/shortcode/timeline-slider.php:191
+#: wp-timelines/shortcode/timeline.php:370
+msgid "Enter meta value to query"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:393
+#: wp-timelines/shortcode/timeline-slider.php:342
+#: wp-timelines/shortcode/timeline.php:530
+msgid "Css Class"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-hozizontal-multi.php:396
+#: wp-timelines/shortcode/timeline-slider.php:345
+#: wp-timelines/shortcode/timeline.php:533
+msgid "Add a class name and refer to it in custom CSS"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-slider.php:49
+msgid "WP Timeline Horizontal"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline-slider.php:76
+msgid "Horizontal Steps"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline.php:223
+msgid "WP Timeline Listing"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline.php:241
+msgid "Box Color"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline.php:464
+msgid "Hide Featured Image"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline.php:491
+msgid "bounceInDown"
+msgstr ""
+
+#: wp-timelines/shortcode/timeline.php:539
+msgid "Image full width"
+msgstr ""
+
+#: wp-timelines/templates/single-timeline.php:65
+msgid "Back to timeline page"
+msgstr ""
